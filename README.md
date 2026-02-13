@@ -5,7 +5,7 @@ Sistema de desktop para gerenciamento de uma **lojinha de games** desenvolvida e
 O sistema permite cadastro, edição, exclusão e listagem de jogos **upload e preview de imagens** dos produtos.
 
 ---
-# Funcionalidades do projeto:
+# 💻 Funcionalidades do projeto:
 - Cadastro de Jogos
 - Edição de Jogos
 - Exclusão de Jogos
