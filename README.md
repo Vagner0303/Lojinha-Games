@@ -1,4 +1,4 @@
-# Lojinha de Games
+# 🎮 Lojinha de Games
 
 Sistema de desktop para gerenciamento de uma **lojinha de games** desenvolvida em **Java Swing** com persistência em **MySQL via JDBC**, seguindo padrão **MVC - DAO**.
 
